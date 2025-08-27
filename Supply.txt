@@ -1,0 +1,2 @@
+P001,Whiskas,2000,3,Pet Food
+P002,Chewy Bone Toy,1500,50,Pet Toys
