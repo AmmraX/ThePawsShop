@@ -39,7 +39,7 @@ I believe that professional software should be as aesthetic as it is functional.
 </p>
 
 <p align="center">
-  <img src="screenshots/Manager_Panel.png" width="600" />
+  <img src="screenshots/Manger_Panel.png" width="600" />
 </p>
 
 <p align="center">
