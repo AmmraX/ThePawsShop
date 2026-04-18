@@ -34,7 +34,19 @@ I believe that professional software should be as aesthetic as it is functional.
 
 ### 📸 System Preview
 
-| Manager Login | Login |
-| :---: | :---: |
-| <img src="screenshots/Manager_Login.png" width="350" /> | <img src="screenshots/Login_page.png" width="350" /> |
+<p align="center">
+  <img src="screenshots/Login_page.png" width="600" />
+</p>
+
+<p align="center">
+  <img src="screenshots/Manager_Panel.png" width="600" />
+</p>
+
+<p align="center">
+  <img src="screenshots/View_Supplies.png" width="600" />
+</p>
+
+<p align="center">
+  <img src="screenshots/Add_Products.png" width="600" />
+</p>
 ---
