@@ -29,3 +29,12 @@ I believe that professional software should be as aesthetic as it is functional.
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/AmmraX/ThePawsShop.git](https://github.com/AmmraX/ThePawsShop.git)
+
+   ---
+
+### 📸 System Preview
+
+| :---: | :---: |
+| <img src=""D:\Uni\HD\Assignment\OOP\Paws_Shop - NetBeans IDE 8.2 11_2_2024 8_13_21 PM.png"" width="400" /> | <img src="screenshots/cashier_ui.png" width="400" /> |
+
+---
