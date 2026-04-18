@@ -1,32 +1,31 @@
-# 🐾 Paws Shop
-**An aesthetic pet retail management system built with Java.**
+# 🐾 ThePawsShop
+**A Minimalist Pet Retail Management System**
 
-Paws Shop is a minimalist inventory solution designed to bridge the gap between complex retail needs and clean user experience. Built on **Object-Oriented Programming (OOP)** principles, it ensures a modular and scalable codebase.
+ThePawsShop is a streamlined desktop application designed to simplify inventory management and sales for pet supply stores. Built with **Java** and a focus on **Object-Oriented Programming (OOP)**, the system provides a clean, role-based experience for both managers and staff.
 
 ---
 
-### 🎨 The Vision
-Most retail systems are cluttered. **Paws Shop** focuses on high-fidelity simplicity—making it easy for staff to manage supplies while keeping the backend logic robust and "clean."
+### 🎨 Design Philosophy
+I believe that professional software should be as aesthetic as it is functional. This project focuses on:
+- **Simplicity:** A distraction-free interface for high-speed retail environments.
+- **Clean Code:** Modular architecture built for scalability.
+- **Human-Centric Design:** Intuitive workflows tailored to specific user roles.
 
-### ✨ Key Features
-- **Manager Portal:** Full-scale inventory control (Add, View, Update).
-- **Cashier Portal:** Streamlined interface for rapid search and sales.
-- **OOP Architecture:** Leveraging Inheritance and Encapsulation for secure role-based access.
+### ✨ Core Functionality
+- **Dual-Role Access:** - **Manager:** Full authority over inventory (Add, View, Update, and Search).
+  - **Cashier:** Optimized for rapid product lookup and transaction processing.
+- **Smart Search:** Real-time filtering to locate pet supplies instantly.
+- **OOP Architecture:** Built using Inheritance and Encapsulation to manage user permissions and data integrity securely.
 
-### 🛠 Tech Stack
+### 🛠 Technical Stack
 - **Language:** Java
-- **Architecture:** Object-Oriented Programming (OOP)
+- **Logic:** Object-Oriented Programming (OOP)
 - **Database:** MySQL
-- **UI:** [Insert UI Library, e.g., Java Swing / JavaFX]
+- **Vibe:** Simple. Chic. Functional.
 
 ---
 
-### 🚀 Quick Start
-1. **Clone:** `git clone https://github.com/[your-username]/paws-shop.git`
-2. **Setup:** Import the SQL schema provided in `/db`.
-3. **Run:** Launch `Main.java` to start the application.
-
----
-<p align="center">
-  <i>"Code should be clean, and design should be effortless."</i>
-</p>
+### 🚀 Getting Started
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/AmmraX/ThePawsShop.git](https://github.com/AmmraX/ThePawsShop.git)
