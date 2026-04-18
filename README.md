@@ -34,7 +34,7 @@ I believe that professional software should be as aesthetic as it is functional.
 
 ### 📸 System Preview
 
+| Manager Login | Login |
 | :---: | :---: |
-| <img src=""D:\Uni\HD\Assignment\OOP\Paws_Shop - NetBeans IDE 8.2 11_2_2024 8_13_21 PM.png"" width="400" /> | <img src="screenshots/cashier_ui.png" width="400" /> |
-
+| <img src="screenshots/Manager_Login.png" width="350" /> | <img src="screenshots/Login_page.png" width="350" /> |
 ---
